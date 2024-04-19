@@ -450,8 +450,8 @@ background: url(WhatsApp Image 2023-11-06 at 11.28.jpg);
 
 ```
 ## OUTPUT:
+![image](https://github.com/Lingasri/Figma/assets/143391929/cac45d06-2806-4d0d-8773-9f1963453ada)
 
-![image](https://github.com/AshikaJubi/Figma/assets/129098066/7c78690e-2caa-46b8-84a2-d7003511749b)
 
 
 ## RESULT:
